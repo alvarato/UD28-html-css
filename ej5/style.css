@@ -1,0 +1,19 @@
+body{
+    max-width: 600px;
+    background-color: #F7ECA8;
+}
+h1{
+    background-color: #F0C43B;
+    
+}
+h2{
+    color: #3B77F0;
+    font-size: 40px;
+}
+.infoPlato{
+    color: #84C3FA;
+}
+.subInfo{
+    color: #0066BF;
+    font-size: 25px;
+}
